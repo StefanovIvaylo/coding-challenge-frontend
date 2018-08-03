@@ -1,0 +1,29 @@
+.search-box{
+    /* height: 100px; */
+    /* border: 1px solid black; */
+    padding: 10px;
+    background-color: white;
+    /* position: absolute; */
+}
+
+div.search-box input:first-child{
+    background: url("../resources/search-icon-yellow.png") no-repeat scroll 1px 1px;
+    padding-left:30px;
+    padding-bottom: 5px;
+}
+
+div.search-box input:last-child{
+    margin-top: 10px;
+    background: url("../resources/year-icon.png") no-repeat scroll 1px 1px;
+    padding-left:30px;
+    padding-bottom: 5px;
+}
+
+.search-input{
+    margin-top:auto;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid rgb(217, 224, 33);
+    color: rgb(217, 224, 33);
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.movie-filter{
+    padding: 10px;
+    margin-top:20px;
+    /* border: 1px solid black; */
+    height: 80%;
+    background-color: white;
+}
+
+.movie-filter a{
+    text-decoration: none;
+    color: rgb(0, 30, 45);
+    font-size: 17px;
+    /* z-index: 2; */
+}
+
+/* .movie-filter a span{
+    z-index: 1;
+} */
+
+.movie-text-color{
+    color: rgb(0, 30, 45);
+}
+
+h6.movie-text-color{
+    font-weight: bold;
+}
+
+.push-right{
+    margin-left: 15px;
+}
