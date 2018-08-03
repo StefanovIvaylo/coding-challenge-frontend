@@ -24,5 +24,7 @@ remarks:
 to run:
 	navigate inside fe_challenge
 	install frameworks if any of them are not saved for some reason
-	run: npm start
+
+	npm install
+	npm start
 	
